@@ -1,0 +1,3 @@
+I am Harshavardini 
+My favourite programming language is Python. 
+I have learned about creating remote repositories and learnt the difference between push and pull. 
